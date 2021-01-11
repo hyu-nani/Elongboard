@@ -1,0 +1,18 @@
+/*
+ * ElongBoard_software.cpp
+ *
+ * Created: 7/19/2020 8:39:16 PM
+ * Author : cube_
+ */ 
+
+#include <avr/io.h>
+
+
+int main(void)
+{
+    /* Replace with your application code */
+    while (1) 
+    {
+    }
+}
+
